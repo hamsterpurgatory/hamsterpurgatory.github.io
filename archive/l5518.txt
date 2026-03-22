@@ -1,0 +1,1 @@
+2|10|n|no|The squeaks are actually atmospheric pressure sensors designed to alert the Council when a human presence exceeds their preferred threshold.

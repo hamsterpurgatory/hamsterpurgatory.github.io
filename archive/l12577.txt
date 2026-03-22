@@ -1,0 +1,1 @@
+2|14|n|n|The hamster’s “doorbell” is actually a tiny piezo sensor triggered when someone sneezes near the cage, broadcasting encrypted sneezes to a global network of listening hamsters.

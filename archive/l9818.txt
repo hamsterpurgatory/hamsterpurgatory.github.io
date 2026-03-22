@@ -1,0 +1,1 @@
+1|7|n|n|Add a variable for tail friction and recalibrate the hamster’s escape velocity with quantum tunneling.

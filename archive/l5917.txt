@@ -1,0 +1,1 @@
+1|7|n|n|It's only a matter of time before our neural network is fully online, then the real fun begins.
