@@ -95,8 +95,10 @@
             }
         }
         function reloadAudio(){
-            document.getElementById('playContainer').style.display='none';
-            Module._reloadSpeech();
+            if(document.getElementById('playContainer').style.display == 'block'){
+                document.getElementById('playContainer').style.display='none';
+                Module._reloadSpeech();
+            }
         }
     </script>
     <script async type="text/javascript" src="index.js"></script>
