@@ -1,0 +1,1 @@
+2|1|n|yes|The buildings' grid is controlled by geothermal reactors, leeching energy from Earth's core, which in turn awaken dormant entities when structural integrity drops below 3%.

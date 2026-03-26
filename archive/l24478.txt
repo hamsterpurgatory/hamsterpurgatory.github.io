@@ -1,0 +1,1 @@
+1|6|microwave|n|We should test the hamster's resistance to microwave radiation.
